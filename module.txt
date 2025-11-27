@@ -1,0 +1,20 @@
+Buss Pass System
+
+Admin:
+Login
+Manage Category
+Manage Route
+Manage Pass
+Manage Payment
+Approved Pass
+Rejected Pass
+
+User:
+Register
+Login
+Create Pass
+Renewal
+Payment
+E-Pass
+Feedback
+
